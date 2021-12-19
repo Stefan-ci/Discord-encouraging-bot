@@ -6,6 +6,8 @@ from replit import db
 from decouple import config
 from keep_alive import keep_alive
 
+# OTIxOTE4MzM2Mzc0MzAwNzYy.Yb55Ww.6zg_AODkCT00sjAp1GRaIlGSINs
+
 BOT_TOKEN = config('BOT_TOKEN')
 
 client = discord.Client()
